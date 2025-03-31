@@ -1,0 +1,9 @@
+phidata  # For data engineering and workflow automation
+python-dotenv  # For managing environment variables
+yfinance  # For fetching financial data from Yahoo Finance
+packaging  # For version parsing and comparison
+duckduckgo-search  # For performing DuckDuckGo search queries
+fastapi  # For building the API
+uvicorn  # For running the FastAPI application
+groq  # For interacting with Groq-based models
+openai  # For interacting with OpenAI's API
