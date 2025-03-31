@@ -1,6 +1,6 @@
-# Agno Finance Agent
+# Agno Agent
 
-Agno Finance Agent is a modular and extensible framework for building AI-powered agents that can perform tasks such as web searches, financial data analysis, and more. It leverages OpenAI and Groq models, along with various tools, to provide intelligent and interactive responses.
+Agno Agent is a modular and extensible framework for building AI-powered agents that can perform tasks such as web searches, financial data analysis, and more. It leverages OpenAI and Groq models, along with various tools, to provide intelligent and interactive responses.
 
 ## Features
 
