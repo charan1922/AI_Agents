@@ -49,7 +49,7 @@ finance_agent = Agent(
             cache_results=True,
         )
     ],
-    instructions=["Always use tables to display data"],
+    instructions=["Always use tables to display data", "Always use .NS NSE India exchange"],
     storage=SqliteAgentStorage(table_name="finance_agent", db_file=agent_storage),
     add_datetime_to_instructions=True,
     add_history_to_messages=True,
