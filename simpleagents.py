@@ -19,6 +19,7 @@ load_dotenv()
 # Set API keys from environment variables
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+os.environ["ASSISTANT_ID"] = os.getenv("ASSISTANT_ID")
 
 # Define a web agent with Groq model and DuckDuckGo tools
 web_agent = Agent(
